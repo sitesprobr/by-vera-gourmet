@@ -105,6 +105,13 @@ const CONFIG = {
             descricao: "Crocante crostine de tapioca artesanal com parmesão e ervas. Ótimo acompanhamento para guacamole, patês e molhos. Embalagem de 70g.",
             preco: 19.90,
             imagem: "imagens/WhatsApp Image 2026-09-30 at 6.12.59 PM.jpeg"
+        },
+        {
+            categoria: "Donuts",
+            nome: "Donut de Chocolate com Frutas",
+            descricao: "Deliciosa barrinha de chocolate ao leite, acompanhada de frutinhas: morango, framboesa, mirtilo, uva ou abacaxi.",
+            preco: 18.00,
+            imagem: "imagens/WhatsApp Image 2026-10-05 at 5.02.43 PM.jpeg"
         }
         // --- Adicione os outros produtos aqui quando tiver os preços ---
     ]

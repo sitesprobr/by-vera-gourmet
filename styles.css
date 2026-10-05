@@ -101,12 +101,11 @@ html {
 }
 
 .logo-img {
-    width: 54px;
-    height: 54px;
-    border-radius: 50%;
+    width: 64px;
+    height: 64px;
+    border-radius: 12px;
     object-fit: cover;
-    border: 2px solid var(--borda);
-    background: var(--fundo);
+    background: #000;
 }
 
 .logo h1 {
