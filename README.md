@@ -1,4 +1,4 @@
- # By Vera Gourmet — Delícias Artesanais
+  # By Vera Gourmet — Delícias Artesanais
 
 Catálogo online com pedido direto pelo WhatsApp e pagamento via Pix.
 
